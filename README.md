@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axactt
 - 👀 I’m interested in ...programming,reverse engineering,exploit development.
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...C++,assembly launguage and linux commands.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
