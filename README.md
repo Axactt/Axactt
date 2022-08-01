@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Axactt
-- 👀 I’m interested in ...programming,reverse engineering.
+- 👀 I’m interested in ...programming,reverse engineering,exploit development.
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
