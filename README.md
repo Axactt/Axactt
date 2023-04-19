@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Axactt
 - 👀 I’m interested in ...programming,reverse engineering,exploit development.
-- 🌱 I’m currently learning ...C++,assembly launguage and linux commands.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Kernel Driver Programming,x64 archtecture specifics and Reversing binaries
+- 💞️ I’m looking to collaborate on ...Game-Hacking, Anti-Cheat Reversing
 - 📫 How to reach me ...
 
 <!---
