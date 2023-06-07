@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Axactt
 - 👀 I’m interested in ...programming,reverse engineering,exploit development.
 - 🌱 I’m currently learning ...Kernel Driver Programming,x64 archtecture specifics and Reversing binaries
-- 💞️ I’m looking to collaborate on ...Game-Hacking, Anti-Cheat Reversing
+- 💞️ I’m looking to collaborate on ... Reversing engineering, Driver development, Vulnerability analysis
 - 📫 How to reach me ...
 
 <!---
